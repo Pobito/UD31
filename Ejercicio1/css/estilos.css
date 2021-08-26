@@ -1,0 +1,41 @@
+
+
+html,body{
+background-image: url('https://s1.1zoom.me/big3/866/Mountains_Iceland_Auster-Skaftafellssysla_566611_4000x2667.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+}
+
+.container{
+height: 100%;
+align-content: center;
+}
+
+.card{
+height: auto;
+margin-top: auto;
+margin-bottom: auto;
+width: 350px;
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+.card-header h3, .card-header h6{
+color: white;
+}
+
+.login_btn{
+color: black;
+background-color: #41dacd;
+width: 316px;
+}
+
+.login_btn:hover{
+color: black;
+background-color: white;
+}
+
+.separar{
+    margin-bottom: 10px;
+}
